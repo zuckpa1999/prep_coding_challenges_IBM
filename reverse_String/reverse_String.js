@@ -46,6 +46,11 @@ let reverse_string = (input) => {
 
 }
 
+// recursion
+
+
+
+
 let result = reverse_string(input)
 console.log(`the input is ${input}`)
 console.log(`the output is ${result}`)
